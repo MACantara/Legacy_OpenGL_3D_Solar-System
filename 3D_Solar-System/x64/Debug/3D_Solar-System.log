@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(9,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,34): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,45): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,51): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,63): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,69): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(10,75): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(12,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(12,60): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(12,65): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(12,70): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(15,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(241,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(250,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OpenGL_Projects\3D_Solar-System\src\Main.cpp(279,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  3D_Solar-System.vcxproj -> C:\OpenGL_Projects\3D_Solar-System\x64\Debug\3D_Solar-System.exe
